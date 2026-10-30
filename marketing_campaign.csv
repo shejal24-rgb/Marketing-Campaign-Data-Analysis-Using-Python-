@@ -1,0 +1,32 @@
+
+Customer_ID,Age,Gender,Income,Spending_Score,Campaign,Response,Website_Visits
+M001,25,Female,35000,65,Email,Yes,12
+M002,34,Male,55000,45,Social Media,No,8
+M003,45,Female,75000,80,Email,Yes,15
+M004,52,Male,90000,35,TV,No,5
+M005,29,Female,42000,70,Social Media,Yes,18
+M006,61,Male,105000,40,Email,No,6
+M007,38,Female,65000,85,TV,Yes,20
+M008,47,Male,82000,50,Social Media,No,9
+M009,23,Female,28000,75,Email,Yes,16
+M010,56,Male,95000,30,TV,No,4
+M011,31,Female,48000,90,Social Media,Yes,22
+M012,42,Male,70000,55,Email,No,10
+M013,67,Female,115000,60,TV,Yes,14
+M014,36,Male,58000,45,Social Media,No,7
+M015,28,Female,39000,88,Email,Yes,19
+M016,50,Male,88000,38,TV,No,6
+M017,44,Female,72000,78,Social Media,Yes,17
+M018,59,Male,98000,42,Email,No,8
+M019,33,Female,51000,92,TV,Yes,24
+M020,40,Male,68000,48,Social Media,No,11
+M021,26,Female,32000,82,Email,Yes,21
+M022,63,Male,110000,36,TV,No,5
+M023,48,Female,85000,72,Social Media,Yes,16
+M024,35,Male,60000,52,Email,No,9
+M025,54,Female,93000,86,TV,Yes,20
+M026,30,Male,45000,40,Social Media,No,7
+M027,72,Female,120000,68,Email,Yes,13
+M028,41,Male,73000,58,TV,No,10
+M029,24,Female,30000,95,Social Media,Yes,23
+M030,46,Male,80000,43,Email,No,8
