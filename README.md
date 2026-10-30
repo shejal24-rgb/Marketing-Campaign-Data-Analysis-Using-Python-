@@ -98,3 +98,69 @@ The project generates six visualizations:
 
 ```bash
 git clone https://github.com/shejal24
+2. Navigate to the project folder
+
+cd Marketing-Campaign-Data-Analysis-Using-Python
+
+3. Install dependencies
+
+python -m pip install pandas numpy matplotlib seaborn
+
+4. Check the dataset location
+
+data/marketing_campaign.csv
+
+5. Run the Python script
+
+python marketing_analysis.py
+
+The program displays customer statistics, campaign summaries, and data visualizations.
+
+💡 Skills Demonstrated
+
+Exploratory Data Analysis (EDA)
+
+Data cleaning and inspection
+
+Descriptive statistics
+
+Data grouping and aggregation
+
+Customer behavior analysis
+
+Campaign performance comparison
+
+Data visualization
+
+Python project documentation
+
+🚀 Future Improvements
+
+Analyze a larger real-world marketing dataset.
+
+Calculate campaign conversion rates.
+
+Add correlation analysis and heatmaps.
+
+Perform customer segmentation.
+
+Build an interactive Power BI dashboard.
+
+Explore machine learning for campaign response prediction.
+
+👩‍💻 Author
+
+Shejal Dhakate
+
+Aspiring Data Analyst | Python | SQL | Data Visualization
+
+<p>
+  💻 <a href="https://github.com/shejal24-rgb">GitHub Profile</a><br/>
+  🔗 <a href="https://linkedin.com/in/shejaldhakate">LinkedIn Profile</a>
+</p>
+
+⭐ Support
+
+If you find this project useful, please give the repository a star ⭐ and follow my journey through the 30-day Data Analysis Projects Challenge.
+
+#Python #DataAnalysis #MarketingAnalytics #Pandas #NumPy #Matplotlib #Seaborn #EDA #DataVisualization #GitHubPortfolio
